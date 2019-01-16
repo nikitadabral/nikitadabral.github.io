@@ -1,0 +1,82 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+    margin: 10px;
+    font-family: fantasy;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYE-yJ51h3XwQ-ZtsDPnN94UxcdLEbqgzd7R-R_AZ6Xj2WNvC2_A");
+    background-repeat: no-repeat;
+    color: black;
+    padding-bottom: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 80px;
+}
+
+a:link,
+a:visited {
+    float: right;
+background-color:darkturquoise;
+    padding: 14px 25px;
+    display: inline-block;
+    color: black;
+}
+
+a:hover {
+    background-color: burlywood;
+}
+
+h2 {
+    margin-top: 20px;
+    color: darkturquoise;
+}
+
+p {
+    font-family: cursive;
+    color: black;
+}
+
+table {
+    height: 100%;
+    width: 80%;
+    color: black;
+    text-align: center;
+    border: 2px  black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr {
+    height: 50%;
+    width: 50%;
+    color: black;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 5px solid black;
+    margin: 20px;
+}
+
+th {
+    height: 25%;
+    width: 25%;
+    color: black;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 5px solid black;
+    margin: 20px;
+}
+
+td {
+    height: 25%;
+    width: 15%;
+    color: black;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 5px solid black;
+    margin: 20px
+}

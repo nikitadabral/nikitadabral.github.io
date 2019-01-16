@@ -1,0 +1,18 @@
+body{ background-color: white;}
+h1{ color: darkturquoise;
+     text-align: center;
+      }
+p{
+    text-align: center;
+
+    color: black;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+}
